@@ -10,3 +10,4 @@ else:
     discamount=amount-discount
 
 print('discount amount',discount)
+print('discount amount',discamount)
